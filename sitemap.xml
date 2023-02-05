@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ccc946.github.io/post/TypeScript/05.typescript%E9%85%8D%E7%BD%AE.html</loc>
+    
+    <lastmod>2023-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ccc946.github.io/post/TypeScript/04.typescript%E6%B3%9B%E5%9E%8B.html</loc>
     
     <lastmod>2023-02-05</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://ccc946.github.io/post/TypeScript/01.typescript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html</loc>
+    <loc>https://ccc946.github.io/post/TypeScript/02.typescript%E7%B1%BB%EF%BC%88class%EF%BC%89.html</loc>
     
     <lastmod>2023-02-05</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://ccc946.github.io/post/TypeScript/02.typescript%E7%B1%BB%EF%BC%88class%EF%BC%89.html</loc>
+    <loc>https://ccc946.github.io/post/TypeScript/01.typescript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html</loc>
     
     <lastmod>2023-02-05</lastmod>
     
@@ -56,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://ccc946.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ccc946.github.io/archives/index.html</loc>
     
     <lastmod>2023-02-03</lastmod>
@@ -66,15 +84,6 @@
   
   <url>
     <loc>https://ccc946.github.io/message-board/index.html</loc>
-    
-    <lastmod>2023-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ccc946.github.io/tags/index.html</loc>
     
     <lastmod>2023-02-03</lastmod>
     
