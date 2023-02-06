@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ccc946.github.io/post/TypeScript/06.typescript%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F.html</loc>
+    
+    <lastmod>2023-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ccc946.github.io/post/TypeScript/05.typescript%E9%85%8D%E7%BD%AE.html</loc>
     
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ccc946.github.io/post/TypeScript/02.typescript%E7%B1%BB%EF%BC%88class%EF%BC%89.html</loc>
+    
+    <lastmod>2023-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://ccc946.github.io/post/TypeScript/03.typescript%E7%B1%BB%E5%9E%8B%E6%8E%A8%E8%AE%BA.html</loc>
-    
-    <lastmod>2023-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ccc946.github.io/post/TypeScript/02.typescript%E7%B1%BB%EF%BC%88class%EF%BC%89.html</loc>
     
     <lastmod>2023-02-05</lastmod>
     
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://ccc946.github.io/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,35 +111,35 @@
   
   <url>
     <loc>https://ccc946.github.io/tags/WebStorm/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%BF%80%E6%B4%BB/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/tags/Koa/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/tags/MySQL/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/tags/TypeScript/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -139,21 +148,21 @@
   
   <url>
     <loc>https://ccc946.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/categories/Node-js/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ccc946.github.io/categories/TypeScript/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
